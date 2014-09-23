@@ -3,8 +3,9 @@ newgit.sh
 
 ***
 
-##create a new directory and clone/fork a repo
-##assumes:
+####create a new directory & clone/fork a repo
+#####assumes:
+
 - a minimal repo ialready exists on github
 - (Sorry git does not make a ssh create available)
 - a "git" directory under the $HOME directory
