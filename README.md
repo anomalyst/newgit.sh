@@ -7,6 +7,7 @@ newgit.sh
 #####assumes:
 
 - a minimal repo ialready exists on github
+- a minimal README.md file is in the origin repo
 - (Sorry git does not make a ssh create available)
 - a "git" directory under the $HOME directory
 - a **GIT_USER** environment variable exists and is valid for github
